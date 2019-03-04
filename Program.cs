@@ -14,11 +14,7 @@ namespace NumberGuesser
             GreetUser(); // Ask for user name and greet
 
             while (true)
-            {
-
-                // Init correct number
-                //int correctNumber = 7;
-
+            {   
                 // Create a new Random object
                 Random random = new Random();
 
